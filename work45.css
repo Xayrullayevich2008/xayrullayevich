@@ -1,0 +1,9 @@
+img:hover{
+    border-image: fill 0 linear-gradient(#003,#000);
+    width: 900px;
+    filter: grayscale(0%);
+}
+img{
+    width: 800px;
+    filter: grayscale(100%);
+}
